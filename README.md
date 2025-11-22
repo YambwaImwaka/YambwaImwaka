@@ -65,9 +65,9 @@
 
 <h3 align="left">Featured Projects:</h3>
 <ul>
-  <li>🔗 <a href="#">JayKay Rides</a> – Transport booking platform (web & mobile) with user-friendly interface</li>
-  <li>🔗 <a href="#">Mamphost</a> – Hosting & client management platform with dashboards and billing tools</li>
-  <li>🔗 <a href="#">DataZambia</a> – Analytics & reporting dashboards for decision-making</li>
+  <li>🔗 <a href="https://github.com/YambwaImwaka/jaykayrides">JayKay Rides</a> – Transport booking platform (web & mobile) with user-friendly interface</li>
+  <li>🔗 <a href="mamphost.com">Mamphost</a> – Hosting & client management platform with dashboards and billing tools</li>
+  <li>🔗 <a href="https://github.com/YambwaImwaka/datazambia">DataZambia</a> – Analytics & reporting dashboards for decision-making</li>
   <li>🔗 <a href="https://yambwaimwaka.com">Personal Website</a> – Portfolio showcasing my work, apps, and projects</li>
 </ul>
 
